@@ -1,5 +1,11 @@
 h1 {
   color:cornflowerblue;
+  font-family: impact;
+}
+
+h2 {
+  color:cornflowerblue;
+  font-family: arial;
 }
 
 img {
@@ -11,4 +17,16 @@ img {
 p.intro {
   color: blueviolet;
   font-weight: bold;
+  width: 80%;
+}
+
+p.author {
+  font-family: sans-serif;
+  font-weight: 500;
+  width: 100%;
+}
+
+p.important {
+  font-family: sans-serif;
+  font-weight: 500;
 }
