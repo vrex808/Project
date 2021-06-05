@@ -28,7 +28,7 @@ p.author {
 
 .important {
   font-family: sans-serif;
-  font-weight: 500;
+  font-weight: bolder;
   overflow: hidden;
   color: navy;
 }
@@ -44,3 +44,21 @@ p.author {
   overflow: hidden;
 }
 
+p {
+  font-family: arial;
+  font-weight: 500;
+}
+
+.hobby {
+  font-size: x-large;
+  color: royalblue;
+}
+
+.bold {
+  font-weight: bolder;
+  color: midnightblue;
+}
+
+.right {
+  float: right;
+}
