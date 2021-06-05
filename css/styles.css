@@ -18,6 +18,7 @@ p.intro {
   color: blueviolet;
   font-weight: bold;
   width: 80%;
+  text-align: center;
 }
 
 p.author {
