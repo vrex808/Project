@@ -8,6 +8,16 @@ h2 {
   font-family: arial;
 }
 
+.head {
+  border: 10px solid cornflowerblue;
+  text-align: center;
+  width: 30%;
+  padding: 10px;
+  background-color: blueviolet;
+  margin: auto;
+  box-sizing: border-box;
+}
+
 img {
   float: left;
   width: 445px;
