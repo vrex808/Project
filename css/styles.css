@@ -79,6 +79,13 @@ p.epicodus {
 .bold {
   font-weight: bolder;
   color: midnightblue;
+  text-align: center;
+  width: 50%;
+  border: 10px solid blueviolet;
+  padding: 10px;
+  background-color: lightblue;
+  margin: 20px;
+  box-sizing: border-box;
 }
 
 .head3 {
