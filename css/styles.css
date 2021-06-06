@@ -29,6 +29,11 @@ img {
   box-sizing: border-box;
 }
 
+.float {
+  float: right;
+  align: top;
+}
+
 p.intro {
   color: blueviolet;
   font-weight: bold;
@@ -108,4 +113,5 @@ p.epicodus {
 
 .right {
   float: right;
+  width: 575px;
 }
