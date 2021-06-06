@@ -22,8 +22,13 @@ img {
 p.intro {
   color: blueviolet;
   font-weight: bold;
-  width: 80%;
+  width: 30%;
   text-align: center;
+  border: 2px solid blue;
+  padding: 5px;
+  background-color: lightblue;
+  margin: auto;
+  box-sizing: border-box;
 }
 
 p.author {
@@ -31,6 +36,11 @@ p.author {
   font-weight: 500;
   width: 100%;
   font-size: large;
+  border: 2px solid royalblue;
+  padding: 10px;
+  background-color: lawngreen;
+  margin: 20px;
+  box-sizing: border-box;
 }
 
 .important {
@@ -51,9 +61,14 @@ p.author {
   overflow: hidden;
 }
 
-p {
+p.epicodus {
   font-family: arial;
   font-weight: 500;
+  border: 2px solid royalblue;
+  padding: 10px;
+  background-color: lawngreen;
+  margin: 20px;
+  box-sizing: border-box;
 }
 
 .hobby {
