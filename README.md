@@ -49,7 +49,7 @@ This is my first independent project at Epicodus where I get to showcase what I 
 
 ## License
 
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
 
 Copyright (c) 2021 Rex Vongphouthone
 
@@ -58,6 +58,6 @@ Copyright (c) 2021 Rex Vongphouthone
 
 Rex Vongphouthone
 
-my-github-vrex808.github.io/Project
+vrex808.github.io/Project
 
 vrex808@gmail.com
