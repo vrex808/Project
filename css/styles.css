@@ -8,22 +8,54 @@ h2 {
   font-family: arial;
 }
 
+.head {
+  border: 10px solid cornflowerblue;
+  text-align: center;
+  width: 30%;
+  padding: 10px;
+  background-color: blueviolet;
+  margin: auto;
+  box-sizing: border-box;
+}
+
 img {
   float: left;
   width: 445px;
+  padding: 10px;
   border: 5px solid blue;
+  border-width: 10px;
+  background-color: blueviolet;
+  margin: 5px;
+  box-sizing: border-box;
+}
+
+.float {
+  float: right;
+  align: top;
 }
 
 p.intro {
   color: blueviolet;
   font-weight: bold;
-  width: 80%;
+  width: 30%;
+  text-align: center;
+  border: 2px solid blue;
+  padding: 5px;
+  background-color: lightblue;
+  margin: auto;
+  box-sizing: border-box;
 }
 
 p.author {
   font-family: sans-serif;
   font-weight: 500;
   width: 100%;
+  font-size: large;
+  border: 2px solid royalblue;
+  padding: 10px;
+  background-color: lawngreen;
+  margin: 20px;
+  box-sizing: border-box;
 }
 
 .important {
@@ -31,12 +63,17 @@ p.author {
   font-weight: bolder;
   overflow: hidden;
   color: navy;
+  border: 2px solid blue;
+  padding: 10px;
+  background-color: lawngreen;
+  margin: 20px;
+  box-sizing: border-box;
 }
 
 .highlight {
   color: green;
   font-family: impact;
-  font-weight: bolder: 900;
+  font-weight: bolder;
   width: 100%;
 }
 
@@ -44,9 +81,14 @@ p.author {
   overflow: hidden;
 }
 
-p {
+p.epicodus {
   font-family: arial;
   font-weight: 500;
+  border: 2px solid royalblue;
+  padding: 10px;
+  background-color: lawngreen;
+  margin: 20px;
+  box-sizing: border-box;
 }
 
 .hobby {
@@ -57,8 +99,24 @@ p {
 .bold {
   font-weight: bolder;
   color: midnightblue;
+  text-align: center;
+  width: 50%;
+  border: 10px solid blueviolet;
+  padding: 10px;
+  background-color: lightblue;
+  margin: 20px;
+  box-sizing: border-box;
+}
+
+.head3 {
+  border: 2px solid royalblue;
+  padding: 10px;
+  background-color: lawngreen;
+  margin: 20px;
+  box-sizing: border-box;
 }
 
 .right {
   float: right;
+  width: 575px;
 }
