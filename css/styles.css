@@ -63,6 +63,11 @@ p.author {
   font-weight: bolder;
   overflow: hidden;
   color: navy;
+  border: 2px solid blue;
+  padding: 10px;
+  background-color: lawngreen;
+  margin: 20px;
+  box-sizing: border-box;
 }
 
 .highlight {
